@@ -2,7 +2,9 @@
 
  Meu nome é kamilly
   -Estou estudando na plataforma [alura](https://www.alura.com.br/)
+  
   -Estou aprendendo a linguagem java Script na plataforma [P5js](https://www.java.com/pt-BR/)
+  
   -Ultilizo esse espaço para organização e compartilhar meus projetos
 
 ## Você pode entrar em contato comigo pelo instagram
